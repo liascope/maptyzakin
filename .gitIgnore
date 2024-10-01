@@ -1,0 +1,14 @@
+.parcel-cache
+dist
+
+node_modules
+
+.prettierrc
+# icon.png
+# index.html
+# logo.png
+# package-lock.json
+# package.json
+# starterNew.js
+# style.css
+# .gitIgnore
