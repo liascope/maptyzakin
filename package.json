@@ -6,7 +6,7 @@
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
-  "author": "Zelia A.",
+  "author": "Zeliha A.",
   "license": "ISC",
   "description": "",
   "devDependencies": {
